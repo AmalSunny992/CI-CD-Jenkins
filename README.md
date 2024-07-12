@@ -1,3 +1,5 @@
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat-square)
+
 # Introduction to CI-CD and Jenkins
 
 Welcome to the Introduction to CI-CD and Jenkins repository! This repository is designed to help you understand and practice the basic concepts of CI-CD and Jenkins.
