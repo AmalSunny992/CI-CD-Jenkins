@@ -99,7 +99,7 @@ sudo systemctl enable jenkins
 - Open a web browser and navigate to http://your_server_ip_or_domain:8080.
 - You will see the "Unlock Jenkins" screen.
 
-**Configuring Jenkins**
+### Configuring Jenkins
 
 Unlock Jenkins:
 - Jenkins installation generates an initial password located in /var/lib/jenkins/secrets/initialAdminPassword.
