@@ -11,13 +11,13 @@ Jenkins is an open-source automation server that enables developers to build, te
 
 **Key Features of Jenkins:**
 
-Extensibility: Jenkins supports hundreds of plugins to integrate with various tools in the CI/CD pipeline, including version control systems, build tools, test automation frameworks, and deployment tools.
+*Extensibility*: Jenkins supports hundreds of plugins to integrate with various tools in the CI/CD pipeline, including version control systems, build tools, test automation frameworks, and deployment tools.
 
-Distributed Builds: Jenkins can distribute builds across multiple machines to speed up the build process and manage workloads efficiently.
+*Distributed Builds*: Jenkins can distribute builds across multiple machines to speed up the build process and manage workloads efficiently.
 
-Easy Configuration: Jenkins provides a web-based interface that simplifies the configuration of jobs and the overall system.
+*Easy Configuration*: Jenkins provides a web-based interface that simplifies the configuration of jobs and the overall system.
 
-Active Community: Being open-source, Jenkins has a large and active community contributing to its development, which ensures regular updates and a wealth of plugins.
+*Active Community*: Being open-source, Jenkins has a large and active community contributing to its development, which ensures regular updates and a wealth of plugins.
 
 ### Why Do We Need Jenkins?
 Jenkins plays a crucial role in modern software development processes for several reasons:
