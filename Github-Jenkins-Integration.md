@@ -95,12 +95,14 @@ echo "Building the project..."
 
 ### Example: Creating a Jenkins Pipeline Job with GitHub Integration
 **Create a New Pipeline Job:**
+    
     - Go to the Jenkins dashboard.
     - Click on "New Item".
     - Enter a name for your pipeline (e.g., GitHubPipelineIntegration).
     - Select "Pipeline" and click "OK".
 
 **Configure Pipeline:**
+    
     - In the pipeline configuration page, go to the "Pipeline" section.
     - Choose "Pipeline script from SCM".
     - Select "Git".
@@ -109,10 +111,12 @@ echo "Building the project..."
     - Enter the script path (e.g., Jenkinsfile).
 
 **Build Triggers:**
+    
     - Go to the "Build Triggers" section.
     - Check "GitHub hook trigger for GITScm polling".
 
 **Save and Test:**
+
 - Click "Save".
 - Push a commit to the repository and verify that the pipeline job is triggered.
 
