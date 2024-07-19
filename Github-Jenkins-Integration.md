@@ -94,15 +94,13 @@ echo "Building the project..."
     - Go to Jenkins and verify that the job is triggered automatically by the push event.
 
 ### Example: Creating a Jenkins Pipeline Job with GitHub Integration
-**Create a New Pipeline Job:**
-    
+- **Create a New Pipeline Job:**
     - Go to the Jenkins dashboard.
     - Click on "New Item".
     - Enter a name for your pipeline (e.g., GitHubPipelineIntegration).
     - Select "Pipeline" and click "OK".
 
-**Configure Pipeline:**
-    
+- **Configure Pipeline:**
     - In the pipeline configuration page, go to the "Pipeline" section.
     - Choose "Pipeline script from SCM".
     - Select "Git".
@@ -110,15 +108,13 @@ echo "Building the project..."
     - Configure the credentials if the repository is private.
     - Enter the script path (e.g., Jenkinsfile).
 
-**Build Triggers:**
-    
+- **Build Triggers:**
     - Go to the "Build Triggers" section.
     - Check "GitHub hook trigger for GITScm polling".
 
-**Save and Test:**
-
-- Click "Save".
-- Push a commit to the repository and verify that the pipeline job is triggered.
+- **Save and Test:**
+    - Click "Save".
+    - Push a commit to the repository and verify that the pipeline job is triggered.
 
 ## Summary
 In this lesson, you learned how to configure Jenkins to work with GitHub and set up GitHub webhooks to trigger Jenkins builds automatically. Integrating Jenkins with GitHub enhances your CI/CD pipeline by automating the build process based on changes in your repository.
