@@ -226,6 +226,7 @@ pipeline {
 **Triggers:**
 
 Configure triggers to automatically run the pipeline based on certain events (e.g., SCM changes, periodic triggers).
+
 In the pipeline configuration, go to the "Build Triggers" section and configure the desired triggers.
 
 ## Summary
